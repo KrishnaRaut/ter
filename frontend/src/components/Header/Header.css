@@ -1,0 +1,12 @@
+.Container{
+    font: 300 12px "Roboto";
+    color: #0c0d20
+}
+
+.active navbar-brand{
+    font: 400 25px "Cursive";
+}
+
+my-3 p-3 rounded{
+    font: 200 1.5vmax "Roboto";
+}
